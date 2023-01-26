@@ -1,0 +1,5 @@
+{
+    "devDependencies": {
+      "@volar-plugins/vetur": "latest"
+    }
+  }
